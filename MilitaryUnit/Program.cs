@@ -13,7 +13,7 @@ namespace MilitaryUnit
         {
             M4Carbine M4 = new M4Carbine()
             {
-                Type = "M4",
+                Type = "M4 ",
                 Caliber = 5.56,
                 FeedingMechanismSize = 30,
                 FireRate = 700
